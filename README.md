@@ -1,2 +1,2 @@
 # Praktikum_Web
-Untuk Praktikum web
+Untuk Praktikum web dengan modul latihan
